@@ -1,5 +1,5 @@
 <samp>  
-Hi!, we're <b>monadic labs</b> ⚗️. 
+Hi!, we're <b>lemonadic</b> ⚗️. 
 <br>
 <br>
 <ul>  
